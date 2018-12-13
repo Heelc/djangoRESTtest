@@ -1,1 +1,4 @@
-#Django REST framework test prj
+# Django REST framework test prj
+
+
+# This prj just for test and study
